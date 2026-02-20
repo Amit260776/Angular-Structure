@@ -4,5 +4,6 @@ import { Injectable } from '@angular/core';
   providedIn: 'root',
 })
 export class LayoutService {
-  
+  // שולט ב־Header state, sidebar toggle וכו’
+  // dark mode , header title , show/hide header actions
 }
